@@ -1,24 +1,11 @@
-# README
+# Sound Byte
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Check out artists performing in your area through Eventbrite listings. Unsure if the concert is right for you? Each listing offers a sound bite of the headlining artist. Explore what's going on in your city, discover cool music, and go to more shows!
 
-Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Tech Stack:
+* Ruby on Rails
+* Eventbrite API
+* Spotify API
+* JavaScript
+* Ajax
