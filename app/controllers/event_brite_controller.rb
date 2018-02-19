@@ -1,0 +1,2 @@
+class EventBriteController < ApplicationController
+end
